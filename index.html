@@ -77,6 +77,37 @@
                             <div class="logo"><img src="Group 67.png" style="width: 30vh;"></a>
                             </div>
                         </div>
+                        <style>
+                            .logo-box {
+                                display: flex;
+                                justify-content: center;
+                                /* center on all devices */
+                                align-items: center;
+                                padding: 10px 0;
+                            }
+
+                            .logo img {
+                                width: 150px;
+                                /* default size */
+                                max-width: 80%;
+                                /* scale down if needed */
+                                height: auto;
+                            }
+
+                            @media (max-width: 768px) {
+                                .logo img {
+                                    width: 120px;
+                                    /* slightly smaller on tablets/mobiles */
+                                }
+                            }
+
+                            @media (max-width: 480px) {
+                                .logo img {
+                                    width: 100px;
+                                    /* even smaller on small phones */
+                                }
+                            }
+                        </style>
 
                         <!--Don't use this menu for this option-->
                         <div class="nav-box clearfix">
