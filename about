@@ -1,0 +1,428 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Jay Gopal Farsan House | About</title>
+<!-- Stylesheets -->
+<link href="css/bootstrap.css" rel="stylesheet">
+<link href="css/style.css" rel="stylesheet">
+<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+<link rel="icon" href="images/favicon.png" type="image/x-icon">
+<!-- Responsive -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<link href="css/responsive.css" rel="stylesheet">
+<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]--> 
+
+</head>
+
+<body>
+  <div class="page-wrapper"> 
+  
+    <!-- Preloader -->
+    <div class="loader-wrap">
+        <div class="preloader">
+            <div class="preloader-close">x</div>
+            <div id="handle-preloader" class="handle-preloader">
+                <div class="animation-preloader">
+                    <div class="spinner"></div>
+                    
+                </div>  
+            </div>
+        </div>
+    </div>
+    <!-- Preloader End -->
+
+ <!-- Main Header-->
+ <header class="main-header header-down">
+    <div class="header-top">
+        <div class="auto-container">
+            <div class="inner clearfix">
+                <div class="top-left clearfix">
+                    <ul class="top-info clearfix">
+                        <li><i class="icon far fa-map-marker-alt"></i> Bhavnagar, Gujarat.364001</li>
+                        <li><i class="icon far fa-clock"></i> Daily : 	
+7:30 am–9 pm </li>
+                    </ul>
+                </div>
+                <div class="top-right clearfix">
+                    <ul class="top-info clearfix">
+                        <li><a href="tel:+918866470303"><i class="icon far fa-phone"></i> +91 8866470303</a>
+                        </li>
+                        <li><a href="mailto:jaygopalfarsanhouse01@gmail.com"><i class="icon far fa-envelope"></i>jaygopalfarsanhouse01@gmail.com</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Header Upper -->
+    <div class="header-upper">
+        <div class="auto-container">
+            <!-- Main Box -->
+            <div class="main-box d-flex justify-content-between align-items-center flex-wrap">
+
+                <!-- Links Box -->
+                <div class="links-box clearfix">
+                    <!-- Hidden Nav Toggler -->
+                    <div class="nav-toggler">
+                        <button class="hidden-bar-opener">
+                            <span class="hamburger">
+                                <span class="top-bun"></span>
+                                <span class="meat"></span>
+                                <span class="bottom-bun"></span>
+                            </span>
+                        </button>
+                    </div>
+                </div>
+
+                <!--Logo-->
+                <div class="logo-box">
+                    <div class="logo"><a href="index.html" title="Delici - Restaurants HTML Template"><img
+                                src="images/logo.png" alt="" title="Delici - Restaurants HTML Template"></a>
+                    </div>
+                </div>
+
+                <!--Don't use this menu for this option-->
+                <div class="nav-box clearfix">
+                    <!--Nav Outer-->
+                    <div class="nav-outer clearfix">
+                        <nav class="main-menu">
+                            <ul class="navigation clearfix">
+                                <li><a href="index.html">Home</a>  </li>
+                                <li><a href="about.html">About Us</a></li>
+                                <li><a href="menu.html">Menu</a></li>
+                                <li><a href="gallery.html">Gallery</a></li>
+                                <li class="current"><a href="contact-us.html">Contact</a></li>
+                            </ul>
+                        </nav>
+                        <!-- Main Menu End-->
+                    </div>
+                    <!--Nav Outer End-->
+                </div>
+                <!---->
+
+                <div class="link link-btn">
+                    <a href="https://jaygopalfarsan.in/onlineorder/" class="theme-btn btn-style-one clearfix">
+                        <span class="btn-wrap">
+                            <span class="text-one">Order Now</span>
+                            <span class="text-two">Order Now</span>
+                        </span>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</header>
+<!--End Main Header -->
+
+<!--Menu Backdrop-->
+<div class="menu-backdrop"></div>
+
+<!-- Hidden Navigation Bar -->
+<section class="hidden-bar">
+    <!-- Hidden Bar Wrapper -->
+    <div class="inner-box">
+        <div class="cross-icon hidden-bar-closer"><span class="far fa-close"></span></div>
+        <div class="logo-box"><a href="index.html" title="Delici - Restaurants HTML Template"><img
+                    src="images/resource/sidebar-logo.png" alt=""
+                    title="Delici - Restaurants HTML Template"></a></div>
+
+        <!-- .Side-menu -->
+        <div class="side-menu">
+            <ul class="navigation clearfix">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li class="current.html"><a href="contact-us.html">Contact</a></li>
+                <li><a href="https://jaygopalfarsan.in/onlineorder/">Order Now</a></li>
+
+            </ul>
+        </div><!-- /.Side-menu -->
+
+
+        <div class="separator"><span></span></div>
+        <div class="booking-info">
+            <div class="bk-title">Booking request</div>
+            <div class="bk-no"><a href="tel:8866470303">+91 8866470303</a></div> 
+        </div>
+
+    </div><!-- / Hidden Bar Wrapper -->
+</section>
+<!-- / Hidden Bar -->
+
+<!--Info Back Drop-->
+<div class="info-back-drop"></div>
+
+<!-- Hidden Bar -->
+<section class="info-bar">
+    <div class="inner-box">
+        <div class="cross-icon"><span class="far fa-close"></span></div>
+        <div class="logo-box"><a href="index.html" title="Delici - Restaurants HTML Template"><img
+                    src="images/resource/sidebar-logo.png" alt=""
+                    title="Delici - Restaurants HTML Template"></a></div>
+        <div class="image-box"><img src="images/resource/sidebar-image.jpg" alt="" title=""></div>
+
+
+        <div class="separator"><span></span></div>
+        <div class="booking-info">
+            <div class="bk-title">Booking request</div>
+            <div class="bk-no"><a href="tel:8866470303">+91 8866470303</a></div> 
+        </div>
+    </div>
+</section>
+<!--End Hidden Bar -->
+
+    <!-- Inner Banner Section -->
+    <section class="inner-banner">
+        <div class="image-layer" style="background-image: url(images/background/banner-image-1.jpg);"></div>
+        <div class="auto-container">
+            <div class="inner">
+                <div class="subtitle"><span>our story</span></div>
+                <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
+                <h1><span>About Us</span></h1>
+            </div>
+        </div>
+    </section>
+    <!--End Banner Section -->
+
+    <!--About Section-->
+    
+
+    
+    <section class="about-section">
+        <div class="left-bg"><img src="images/background/bg-10.png" alt="" title=""></div>
+        <div class="right-bg"><img src="images/background/bg-11.png" alt="" title=""></div>
+        <div class="auto-container">
+            <div class="title-box centered">
+                <div class="subtitle"><span>who we are</span></div>
+                <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
+                <h3>  Welcome to Jay Gopal Farsan House, where tradition meets taste <span class="theme_color">since 1999!</span>.  Nestled in the heart of Bhavnagar, Gujarat, our journey began with a simple yet powerful vision – to bring the flavors of our beloved Bhavnagari Gathiya to every corner of the world. With each crisp bite, we aim to share the essence of Gujarat’s rich culinary heritage.</h3>
+            </div>
+            <div class="row clearfix">
+                <!--Block-->
+                <div class="about-block content-block col-xl-4 col-lg-4 col-md-6 col-sm-12">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <div class="subtitle text-center mission-vision-area"><span>Our Mission</span></div>
+                        <div class="text mission-vision-area-text">Our commitment to quality is as unwavering as the roots that bind us to this vibrant city. Every batch of Bhavnagari Gathiya is crafted with love and care, using the finest ingredients and following age-old recipes that have been perfected over decades.
+                        </div>
+                        <div class="video-box">
+                            <div class="image"><a href="https://www.youtube.com/watch?v=ZETY_l3GVQg" class="lightbox-image"><img src="images/resource/about-image-4.jpg" alt=""></a>
+                            <a href="https://www.youtube.com/watch?v=ZETY_l3GVQg" class="lightbox-image play-btn"><span class="icon fal fa-play"><i class="ripple"></i></span></a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Block-->
+                <div class="about-block image-block col-xl-4 col-lg-4 col-md-6 col-sm-12">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: fadeInUp;">
+                        <div class="image"><img src="images/resource/about-image-3.jpg" alt=""></div>
+                    </div>
+                </div>
+
+                <!--Block-->
+                <div class="about-block content-block col-xl-4 col-lg-4 col-md-6 col-sm-12">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 0ms; animation-name: fadeInUp;">
+                        <div class="subtitle text-center mission-vision-area"><span>Our Vision</span></div>
+                        <div class="text mission-vision-area-text">As we continue our journey, we invite you to savor the authentic flavors of Gujarat with us. Join us in celebrating the spirit of Bhavnagar, where every bite tells a story and every customer becomes a part of our extended family.</div>
+                        <div class="video-box">
+                            <div class="image"><a href="https://www.youtube.com/watch?v=ZETY_l3GVQg" class="lightbox-image"><img src="images/resource/about-image-1.jpg" alt=""></a>
+                            <a href="https://www.youtube.com/watch?v=ZETY_l3GVQg" class="lightbox-image play-btn"><span class="icon fal fa-play"><i class="ripple"></i></span></a></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="fact-counter">
+                <div class="row clearfix">
+                    <div class="fact-block col-lg-3 col-md-6 col-sm-12">
+                        <div class="inner clearfix">
+                            <div class="fact-count"><div class="count-box counted"><span class="count-text" data-stop="150" data-speed="2000">150</span><i>+</i></div></div>
+                            <div class="fact-title">daily order</div>
+                        </div>
+                    </div>
+                    <div class="fact-block col-lg-3 col-md-6 col-sm-12">
+                        <div class="inner clearfix">
+                            <div class="fact-count"><div class="count-box counted"><span class="count-text" data-stop="82" data-speed="1500">82</span><i>+</i></div></div>
+                            <div class="fact-title">Special Dishes</div>
+                        </div>
+                    </div>
+                    <div class="fact-block col-lg-3 col-md-6 col-sm-12">
+                        <div class="inner clearfix">
+                            <div class="fact-count"><div class="count-box counted"><span class="count-text" data-stop="35" data-speed="1000">35</span><i>+</i></div></div>
+                            <div class="fact-title">expert chef</div>
+                        </div>
+                    </div>
+                    <div class="fact-block col-lg-3 col-md-6 col-sm-12">
+                        <div class="inner clearfix">
+                            <div class="fact-count"><div class="count-box counted"><span class="count-text" data-stop="10" data-speed="1000">10</span><i>+</i></div></div>
+                            <div class="fact-title">awards won</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+    
+    
+
+    <!--Why Us Section-->
+    <section class="why-us-two">
+        <div class="auto-container">
+            <div class="title-box centered">
+                <div class="subtitle"><span>why choose us</span></div>
+                <div class="pattern-image"><img src="images/icons/separator.svg" alt="" title=""></div>
+                <h2>Our Strength</h2>
+            </div>
+            <div class="row clearfix">
+                <!--Block-->
+                <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="0ms">
+                        <div class="image-box"><img src="images/resource/featured-1.jpg" alt=""></div>
+                        <div class="over-box">
+                            <div class="icon-box"><img src="images/resource/why-icon-1.png" alt=""></div>
+                            <h4>Hygienic Food</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Block-->
+                <div class="why-block-two m-top col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="300ms">
+                        <div class="image-box"><img src="images/resource/featured-2.jpg" alt=""></div>
+                        <div class="over-box">
+                            <div class="icon-box"><img src="images/resource/why-icon-2.png" alt=""></div>
+                            <h4>Fresh Environment</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Block-->
+                <div class="why-block-two col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="600ms">
+                        <div class="image-box"><img src="images/resource/featured-4.jpg" alt=""></div>
+                        <div class="over-box">
+                            <div class="icon-box"><img src="images/resource/why-icon-3.png" alt=""></div>
+                            <h4>Skilled Chefs</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <!--Block-->
+                <div class="why-block-two m-top col-xl-3 col-lg-3 col-md-6 col-sm-12">
+                    <div class="inner-box wow fadeInUp" data-wow-duration="1500ms" data-wow-delay="900ms">
+                        <div class="image-box"><img src="images/resource/featured-3.jpg" alt=""></div>
+                        <div class="over-box">
+                            <div class="icon-box"><img src="images/resource/why-icon-4.png" alt=""></div>
+                            <h4>Event & Party</h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+   
+
+        <!--Main Footer-->
+        <footer class="main-footer">
+            <div class="image-layer"></div>
+            <div class="upper-section">
+                <div class="auto-container">
+                    <div class="row clearfix">
+                        <!--Footer Col-->
+                        <div class="footer-col info-col col-lg-6 col-md-12 col-sm-12">
+                            <div class="inner wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                <div class="content">
+                                    <div class="logo"><a href="index.html"
+                                            title="Delici - Restaurants HTML Template"><img src="images/logo.png" alt=""
+                                                title="Delici - Restaurants HTML Template" class="footer-logo"></a>
+                                    </div>
+                                    <div class="info">
+                                        <ul>
+                                         
+<li>Sumantra complex, Gopal farsan house, opp. to Ram Mantra Road, Kaliyabid, Bhavnagar, Gujarat.364001</li>
+                                            <li><a href="mailto:jaygopalfarsanhouse01@gmail.com">jaygopalfarsanhouse01@gmail.com</a></li>
+                                            <li><a href="tel:8866470303">Contact Us: +91 8866470303</a></li>
+                                            
+                                            <li>Open : 	
+7:30 am–9 pm </li>
+                                        </ul>
+                                    </div>
+                                    <div class="separator"><span></span><span></span><span></span></div>
+
+                                </div>
+                            </div>
+                        </div>
+                        <!--Footer Col-->
+                        <div class="footer-col links-col col-lg-3 col-md-6 col-sm-12">
+                            <div class="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                <ul class="links">
+                                    <li><a href="index.html">Home</a></li>
+                                    <li><a href="about.html">About us</a></li>
+                                    <li><a href="menu.html">Menu</a></li>
+                                    <li><a href="gallery.html">Gallery</a></li>
+                                    <li><a href="contact-us.html">Contact Us</a></li>
+                                    <li><a href="https://jaygopalfarsan.in/onlineorder/">Order Now</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!--Footer Col-->
+                        <div class="footer-col links-col last col-lg-3 col-md-6 col-sm-12">
+                            <div class="inner wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
+                                <ul class="social-menu">
+                                    <li class="social-btn facebook" tooltip="Facebook">
+                                      <a href="about#"><i class="fa-brands fa-facebook"></i></a>
+                                    </li>
+                                    <li class="social-btn instagram" tooltip="Instagram">
+                                      <a href="https://www.instagram.com/jaygopalfarsan_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><i class="fa-brands fa-instagram"></i></a>
+                                    </li>
+                                    
+                                  </ul>
+                                  <ul class="links">
+                                    
+                                    <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                                    <li><a href="return-and-refund-policy.html">Return and Refund Policy</a></li>
+                                    <!-- <li><a href="terms-and-conditions.html">Terms and Conditions</a></li> -->
+                                    <li><a href="shipping-policy.html">Shipping Policy</a></li>
+
+                                    
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <div class="auto-container">
+                    <div class="copyright">&copy;
+                        <script>document.write(new Date().getFullYear())</script> Jay Gopal Farsan House All Right
+                        Reserved.Designed By <a href="https://www.petpooja.com/" target="_blank">Petpooja</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
+</div>
+<!--End pagewrapper--> 
+
+<!--Scroll to top-->
+<div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-angle-up"></span></div>
+
+<script src="js/jquery.js"></script>
+<script src="js/popper.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/jquery-ui.js"></script>
+<script src="js/jquery.fancybox.js"></script>
+<script src="js/swiper.js"></script>
+<script src="js/owl.js"></script>
+<script src="js/appear.js"></script>
+<script src="js/wow.js"></script>
+<script src="js/custom-script.js"></script>
+</body>
+</html>
