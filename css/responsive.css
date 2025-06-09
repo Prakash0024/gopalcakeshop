@@ -291,7 +291,7 @@
 	}
 
 	.main-header .main-box .logo-box .logo img{
-		height: 50px;
+		height: auto;
 	}
 
 	.banner-section .slide-item h1,
